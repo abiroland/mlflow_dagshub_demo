@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/abiro/OneDrive/Documents/MSDS/mlflow_dagshub_demo/mlruns/873896823190577581/9b2e00f9043c4f2686fed40d7dad4278/artifacts
+end_time: 1740727197092
+entry_point_name: ''
+experiment_id: '873896823190577581'
+lifecycle_stage: active
+run_id: 9b2e00f9043c4f2686fed40d7dad4278
+run_name: XGBClassifier With SMOTE
+run_uuid: 9b2e00f9043c4f2686fed40d7dad4278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712036092
+status: 3
+tags: []
+user_id: abiro

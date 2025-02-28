@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/abiro/OneDrive/Documents/MSDS/mlflow_dagshub_demo/mlruns/873896823190577581/f942a049986040b08e98bc2b3dc0009c/artifacts
+end_time: 1740712031090
+entry_point_name: ''
+experiment_id: '873896823190577581'
+lifecycle_stage: active
+run_id: f942a049986040b08e98bc2b3dc0009c
+run_name: Random Forest
+run_uuid: f942a049986040b08e98bc2b3dc0009c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712026919
+status: 3
+tags: []
+user_id: abiro

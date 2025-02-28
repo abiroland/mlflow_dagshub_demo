@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/abiro/OneDrive/Documents/MSDS/mlflow_dagshub_demo/mlruns/873896823190577581/ee024c32bf044906a87a9b670667adf1/artifacts
+end_time: 1740712036049
+entry_point_name: ''
+experiment_id: '873896823190577581'
+lifecycle_stage: active
+run_id: ee024c32bf044906a87a9b670667adf1
+run_name: XGBClassifier
+run_uuid: ee024c32bf044906a87a9b670667adf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740712031123
+status: 3
+tags: []
+user_id: abiro
